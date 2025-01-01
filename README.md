@@ -60,5 +60,5 @@ Technologies Used
    - NetBeans IDE
 
 - Project Link
-   - https://github.com/yashbharda/Ebook.git
+   - https://github.com/Satishvadhiya/Ebook.git
      
